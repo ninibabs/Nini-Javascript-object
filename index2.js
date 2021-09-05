@@ -2,7 +2,10 @@ const me = (a,b,c,d,)=>{
     console.log('my name is ' + a + ' i come from ' + b + 'i am ' + c + ' i like a game called ' + d )
 
 }
+const obj = {name="nini",age=9,bloodType:"A+", array=[1,2,3,4,5,6,7,8]}
 
+
+console.log(` ${obj.bloodType}`);
 me('nini','ekiti',9,'roblox')
 
 
